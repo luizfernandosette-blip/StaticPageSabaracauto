@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.sabaracauto.com.br/sitemap.xml
+
+# Block common non-content paths
+Disallow: /css/
+Disallow: /js/
+Disallow: /imgs/
